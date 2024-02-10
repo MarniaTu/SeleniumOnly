@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/mqa6p8jrp56jrqjx?svg=true)](https://ci.appveyor.com/project/MarniaTu/seleniumonly)
